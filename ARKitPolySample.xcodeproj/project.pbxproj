@@ -14,6 +14,7 @@
 		27EE7D8B1FACA37900F61E23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27EE7D8A1FACA37900F61E23 /* Assets.xcassets */; };
 		27EE7D8E1FACA37900F61E23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27EE7D8C1FACA37900F61E23 /* LaunchScreen.storyboard */; };
 		27EE7D961FACA4D500F61E23 /* PlaneNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EE7D951FACA4D500F61E23 /* PlaneNode.swift */; };
+		27EE7D981FAD475700F61E23 /* RecordingButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27EE7D971FAD475700F61E23 /* RecordingButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		27EE7D8D1FACA37900F61E23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		27EE7D8F1FACA37900F61E23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27EE7D951FACA4D500F61E23 /* PlaneNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaneNode.swift; sourceTree = "<group>"; };
+		27EE7D971FAD475700F61E23 /* RecordingButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				27EE7D811FACA37900F61E23 /* AppDelegate.swift */,
+				27EE7D971FAD475700F61E23 /* RecordingButton.swift */,
 				27EE7D831FACA37900F61E23 /* art.scnassets */,
 				27EE7D851FACA37900F61E23 /* ViewController.swift */,
 				27EE7D871FACA37900F61E23 /* Main.storyboard */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27EE7D861FACA37900F61E23 /* ViewController.swift in Sources */,
+				27EE7D981FAD475700F61E23 /* RecordingButton.swift in Sources */,
 				27EE7D961FACA4D500F61E23 /* PlaneNode.swift in Sources */,
 				27EE7D821FACA37900F61E23 /* AppDelegate.swift in Sources */,
 			);
